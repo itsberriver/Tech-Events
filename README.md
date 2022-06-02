@@ -1,4 +1,17 @@
-### Tech Events
+# Tech Events
+
+## The project in use
+
+<img src="public/screenshot_readme_02.png"/>
+<img src="public/screenshot_readme_03.png"/>
+<img src="public/screenshot_readme.png"/>
+<img src="public/screenshot_readme_10.png"/>
+<img src="public/screenshot_readme_09.png"/>
+<img src="public/screenshot_readme_04.png"/>
+<img src="public/screenshot_readme_05.png"/>
+<img src="public/screenshot_readme_06.png"/>
+<img src="public/screenshot_readme_07.png"/>
+<img src="public/screenshot_readme_08.png"/>
 
 ## About the project
 Tech Events is part of one of the Factoria F5 Bootcamp projects. The main goals of it are :
@@ -108,19 +121,6 @@ In our case, we decided to make events from a specific timezone (Europe/Madrid).
 
 ` $ php artisan schedule:work` 
 
-
-## The project in use
-
-<img src="public/screenshot_readme_02.png"/>
-<img src="public/screenshot_readme_03.png"/>
-<img src="public/screenshot_readme.png"/>
-<img src="public/screenshot_readme_10.png"/>
-<img src="public/screenshot_readme_09.png"/>
-<img src="public/screenshot_readme_04.png"/>
-<img src="public/screenshot_readme_05.png"/>
-<img src="public/screenshot_readme_06.png"/>
-<img src="public/screenshot_readme_07.png"/>
-<img src="public/screenshot_readme_08.png"/>
 
 ## Developers
 - [Jessica Berriver](https://github.com/itsberriver)
