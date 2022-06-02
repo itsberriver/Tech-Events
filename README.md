@@ -123,7 +123,7 @@ In our case, we decided to make events from a specific timezone (Europe/Madrid).
 <img src="public/screenshot_readme_08.png"/>
 
 ## Developers
-- [Jess Mejia](https://github.com/itsberriver)
+- [Jessica Berriver](https://github.com/itsberriver)
 - [Adrian Pelayo](https://github.com/bigbae18)
 - [Miguel Dominguez](https://github.com/MADROCHA)
 - [Lucas Abidoral](https://github.com/Lucasbcn)
